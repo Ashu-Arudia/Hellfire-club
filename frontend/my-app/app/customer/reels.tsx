@@ -16,17 +16,35 @@ const { height } = Dimensions.get("window");
 const reelsData = [
   {
     id: "1",
-    video: require("../../assets/videos/vid.mp4"),
+    video:
+      "https://player.vimeo.com/external/434045526.sd.mp4?s=7e0fdfb6e1a9c45d8c3b77c09d1d44a74a8b5c6b&profile_id=164&oauth2_token_id=57447761",
     username: "SharmaChaat",
-    caption: "Best pani puri in town 😍",
+    caption: "Best pani puri in town 😋",
     profile: "https://i.pravatar.cc/150?img=3",
   },
   {
     id: "2",
-    video: require("../../assets/videos/vid.mp4"),
+    video:
+      "https://player.vimeo.com/external/403008981.sd.mp4?s=9bcbcc6a58dff6c77c8bb9a7c6c9f1b57f30f8e1&profile_id=164&oauth2_token_id=57447761",
     username: "RajuMomos",
     caption: "Hot & spicy momos 🔥",
     profile: "https://i.pravatar.cc/150?img=4",
+  },
+  {
+    id: "3",
+    video:
+      "https://player.vimeo.com/external/371749263.sd.mp4?s=0a6b16c0df9d5c1edc8d68a7b9c6b09f0dcb1a6e&profile_id=164&oauth2_token_id=57447761",
+    username: "DelhiStreetFood",
+    caption: "Street style noodles 🍜",
+    profile: "https://i.pravatar.cc/150?img=5",
+  },
+  {
+    id: "4",
+    video:
+      "https://player.vimeo.com/external/466246374.sd.mp4?s=9a8a2f2b7b0b8b7e3a1c2c3b4d5e6f7a8b9c0d1e&profile_id=164&oauth2_token_id=57447761",
+    username: "TandooriKing",
+    caption: "Smoky tandoori vibes 🍗",
+    profile: "https://i.pravatar.cc/150?img=6",
   },
 ];
 
