@@ -334,7 +334,7 @@ README_assets/
 Then display in README:
 
 ```md
-![[video_2026-02-21_07-00-36.mp4]]
+[![Watch Demo]](Images/video_2026-02-21_07-00-36.mp4)
 ```
 
 ---
